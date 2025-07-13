@@ -1,7 +1,9 @@
+import { WordBook } from '@/components/WordBook';
+
 const MainPage = () => {
     return (
-        <div>
-            <h1>MainPage</h1>
+        <div className="min-h-screen bg-gray-50">
+            <WordBook />
         </div>
     )
 }

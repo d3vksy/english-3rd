@@ -1,0 +1,79 @@
+{
+    "days": [
+        {
+            "day": 1,
+            "words": [
+                {
+                    "english": "apple",
+                    "korean": "사과"
+                },
+                {
+                    "english": "book",
+                    "korean": "책"
+                },
+                {
+                    "english": "cat",
+                    "korean": "고양이"
+                },
+                {
+                    "english": "dog",
+                    "korean": "개"
+                },
+                {
+                    "english": "house",
+                    "korean": "집"
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "words": [
+                {
+                    "english": "tree",
+                    "korean": "나무"
+                },
+                {
+                    "english": "car",
+                    "korean": "자동차"
+                },
+                {
+                    "english": "phone",
+                    "korean": "전화"
+                },
+                {
+                    "english": "computer",
+                    "korean": "컴퓨터"
+                },
+                {
+                    "english": "water",
+                    "korean": "물"
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "words": [
+                {
+                    "english": "food",
+                    "korean": "음식"
+                },
+                {
+                    "english": "friend",
+                    "korean": "친구"
+                },
+                {
+                    "english": "family",
+                    "korean": "가족"
+                },
+                {
+                    "english": "school",
+                    "korean": "학교"
+                },
+                {
+                    "english": "work",
+                    "korean": "일"
+                }
+            ]
+        }
+    ]
+}
